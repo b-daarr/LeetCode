@@ -8,7 +8,7 @@ Problems support high-quality editorials
 
 [1- Two Sum](https://leetcode.com/problems/two-sum/?envType=study-plan-v2&envId=top-interview-150)
 
-+ [`CSharp`]()
++ [`CSharp`](https://github.com/b-daarr/CSharp/blob/main/LeetCode/LC15001/Program.cs)
 
 + [`Java`]()
 
