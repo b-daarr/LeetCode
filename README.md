@@ -10,6 +10,6 @@ Problems support high-quality editorials
 
 + [`CSharp`](https://github.com/b-daarr/CSharp/blob/main/LeetCode/LC15001/Program.cs)
 
-+ [`Java`]()
++ [`Java`](https://github.com/b-daarr/Java/blob/main/LeetCode/LC15001/src/Main.java)
 
 + [`Python`]()
