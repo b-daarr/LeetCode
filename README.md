@@ -1,6 +1,6 @@
 ## [LeetCode](https://leetcode.com)
 
-###[Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+### [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 
 > 150 Orginal & Classic Questions Covers comprehensive interview topics
 Best for 3+ months of prep time
