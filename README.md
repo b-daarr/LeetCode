@@ -13,3 +13,5 @@ Problems support high-quality editorials
 + [Java](https://github.com/b-daarr/Java/blob/main/LeetCode/LC15001/src/Main.java)
 
 + [Python](https://github.com/b-daarr/Python/blob/main/LeetCode/LC15001/LC15001.py)
+
+> [Video]()
