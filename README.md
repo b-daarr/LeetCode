@@ -47,8 +47,8 @@ The second train of thought is, without changing the array, can we use additiona
 
 #### Programming
 
-+ Source code [-•••C#•••-](https://github.com/b-daarr/CSharp/blob/main/LeetCode/LC15001/Program.cs)
- | [-•••Java•••-](https://github.com/b-daarr/Java/blob/main/LeetCode/LC15001/src/Main.java)
-| [-•••Python•••-)](https://github.com/b-daarr/Python/blob/main/LeetCode/LC15001/LC15001.py)
++ Source code [-•C#•-](https://github.com/b-daarr/CSharp/blob/main/LeetCode/LC15001/Program.cs)
+ | [-•Java•-](https://github.com/b-daarr/Java/blob/main/LeetCode/LC15001/src/Main.java)
+| [-•Python•-](https://github.com/b-daarr/Python/blob/main/LeetCode/LC15001/LC15001.py)
 
-+ Video [-•••YouTube•••-]](https://youtu.be/eXjqI17JWgI?si=tfCinx3msu5kBUmn) | [-•••OneDrive•••-]]()
++ Video [-•YouTube•-]](https://youtu.be/eXjqI17JWgI?si=tfCinx3msu5kBUmn) | [-•OneDrive•-]]()
